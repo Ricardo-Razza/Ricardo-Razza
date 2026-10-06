@@ -1,47 +1,65 @@
-# Olá, eu sou o Ricardo 👋
+<div align="center">
+  <h1>Olá, eu sou o Ricardo Razza 👋</h1>
+  <p><strong>Desenvolvedor Backend | Java & Spring Boot | Estudante de Engenharia de Software</strong></p>
 
-Estudante de **Engenharia de Software** e desenvolvedor **Java & Spring Boot**, com foco em **POO** e **APIs REST**.
-Gosto de construir backends bem organizados, com testes, documentação e containerização com Docker.
-
-📍 Imbé - RS
-
----
-
-## 🛠️ Tecnologias
-
-**Backend:** Java · Spring Boot · Spring Data JPA · Maven
-**Mensageria e infra:** RabbitMQ · Docker · Docker Compose
-**Testes:** JUnit · Mockito
-**Banco de dados:** H2
-**Ferramentas:** Git · GitHub · Postman
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ricardo-razza/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:razzaenascimento@outlook.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+### 🚀 Sobre Mim
 
-| Projeto | Descrição |
-| ------- | --------- |
-| [api-contract-management](https://github.com/Ricardo-Razza/api-contract-management) | API REST para cadastro, consulta e controle de contratos, com regras de negócio para acompanhar o ciclo de vida de cada contrato. |
-| [front-contract-management](https://github.com/Ricardo-Razza/front-contract-management) | Interface web que consome a API de contratos, permitindo criar, visualizar e gerenciar contratos de forma simples. |
-| [notifications-service](https://github.com/Ricardo-Razza/notifications-service) | Serviço dedicado ao envio de notificações, desacoplado do restante do sistema para facilitar a manutenção e a evolução. |
-| [SMART-PRICE](https://github.com/Ricardo-Razza/SMART-PRICE) | Sistema que auxilia na definição e na análise de preços de produtos, aplicando regras de negócio para apoiar decisões de precificação. |
-| [pedidos-api](https://github.com/Ricardo-Razza/pedidos-api) | API de pedidos com Spring Boot, RabbitMQ e Docker, com geração de entregas via mensageria assíncrona. |
+- 🎓 Graduando em **Engenharia de Software**.
+- ☕ Foco em desenvolvimento backend com **Java (17+)** e ecossistema **Spring (Spring Boot, Spring Data JPA, Spring Security)**.
+- 🏗️ Criação de **APIs RESTful** robustas, aplicando princípios de **Clean Code**, **SOLID**, arquitetura em camadas e boas práticas de modelagem de dados.
+- 🗄️ Experiência prática com bancos relacionais (**PostgreSQL**, **MySQL**, **H2**) e conteinerização com **Docker**.
+- 💡 Também explorando mensageria assíncrona (**RabbitMQ**) e front-end moderno com **TypeScript** & **Angular**.
 
 ---
 
-## 📚 Estudando atualmente
+### 🛠️ Tecnologias & Ferramentas
 
-- Testes de integração com Spring Boot
-- Dead Letter Queue e boas práticas com RabbitMQ
-- Bancos de dados persistentes como PostgreSQL
+<div align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  
+  <br>
+
+  <!-- Bancos & Infra -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+
+  <br>
+
+  <!-- Ferramentas & Outros -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</div>
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-razza/)
-- ✉️ razzaenascimento@outlook.com
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Razza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Razza&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
-⭐ Fique à vontade para explorar os repositórios e deixar um feedback!
+<div align="center">
+  <sub>Construindo sistemas escaláveis linha por linha ☕</sub>
+</div>
